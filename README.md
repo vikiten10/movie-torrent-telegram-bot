@@ -22,3 +22,5 @@ Built-in requesities :
   * csv module
   * datetime module
   * dateutil module
+
+#P.S : This is my first project , there might be efficient ways to execute processes and some unknown bugs.
