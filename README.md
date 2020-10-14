@@ -22,5 +22,7 @@ Built-in requesities :
   * csv module
   * datetime module
   * dateutil module
+  
+Working version of this telegram bot - https://t.me/Lambda_pybot
 
 P.S : This is my first project , there might be efficient ways to execute processes and some unknown bugs.
